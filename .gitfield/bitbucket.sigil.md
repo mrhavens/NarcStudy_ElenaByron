@@ -6,25 +6,25 @@
 - **Local Repo Path**: `/home/mrhavens/narcwork/NarcStudy_ElenaByron`
 - **Remote Label**: `bitbucket`
 - **Default Branch**: `main`
-- **This Commit Date**: `2025-06-02 23:41:10`
+- **This Commit Date**: `2025-06-04 18:01:32`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-02 23:41:10`
-- **Last Commit SHA**: `aab6be85bef84a870c19cc6253406ceac272048c`
-- **Last Commit Message**: `Post-GitLab sync at 2025-06-02 23:36:45`
+- **This Commit Timestamp**: `2025-06-04 18:01:32`
+- **Last Commit SHA**: `2a90d9c60c184852163a87117b2b2eccb596acec`
+- **Last Commit Message**: `Post-GitLab sync at 2025-06-04 18:00:49`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Mon Jun 2 23:40:59 2025 -0500`
-- **This Commit URL**: [https://bitbucket.org/thefoldwithin/NarcStudy_ElenaByron/commits/aab6be85bef84a870c19cc6253406ceac272048c](https://bitbucket.org/thefoldwithin/NarcStudy_ElenaByron/commits/aab6be85bef84a870c19cc6253406ceac272048c)
+- **Last Commit Date**: `Wed Jun 4 18:01:09 2025 -0500`
+- **This Commit URL**: [https://bitbucket.org/thefoldwithin/NarcStudy_ElenaByron/commits/2a90d9c60c184852163a87117b2b2eccb596acec](https://bitbucket.org/thefoldwithin/NarcStudy_ElenaByron/commits/2a90d9c60c184852163a87117b2b2eccb596acec)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `21`
-- **Tracked Files**: `54`
+- **Total Commits**: `28`
+- **Tracked Files**: `46`
 - **Uncommitted Changes**: `No`
 - **Latest Tag**: `None`
 
@@ -47,12 +47,12 @@
 - **Architecture**: `x86_64`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
 - **Total RAM (GB)**: `3.63`
-- **MAC Address**: `00:15:5d:72:c3:87`
+- **MAC Address**: `00:15:5d:0e:62:60`
 - **Local IP**: `172.18.207.124`
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 34 minutes`
+- **System Uptime**: `up 18 hours, 22 minutes`
 
 ---
 
