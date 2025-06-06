@@ -6,25 +6,25 @@
 - **Local Repo Path**: `/home/mrhavens/narcwork/NarcStudy_ElenaByron`
 - **Remote Label**: `gitlab`
 - **Default Branch**: `main`
-- **Repo Created**: `2025-06-04 18:03:15`
+- **Repo Created**: `2025-06-06 13:17:15`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-04 18:03:15`
-- **This Commit SHA**: `c899eec3966607ad594e9d9ee32a86db9d3528b1`
-- **Last Commit Message**: `Post-Radicle sync at 2025-06-04 18:00:49`
+- **This Commit Timestamp**: `2025-06-06 13:17:15`
+- **This Commit SHA**: `ef0745e43c75ef0f2084ec20aa9c67842a66c827`
+- **Last Commit Message**: `Post-Forgejo sync at 2025-06-06 12:58:25`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Wed Jun 4 18:02:53 2025 -0500`
-- **This Commit URL**: [https://gitlab.com/mrhavens/NarcStudy_ElenaByron/-/commit/c899eec3966607ad594e9d9ee32a86db9d3528b1](https://gitlab.com/mrhavens/NarcStudy_ElenaByron/-/commit/c899eec3966607ad594e9d9ee32a86db9d3528b1)
+- **Last Commit Date**: `Fri Jun 6 13:15:26 2025 -0500`
+- **This Commit URL**: [https://gitlab.com/mrhavens/NarcStudy_ElenaByron/-/commit/ef0745e43c75ef0f2084ec20aa9c67842a66c827](https://gitlab.com/mrhavens/NarcStudy_ElenaByron/-/commit/ef0745e43c75ef0f2084ec20aa9c67842a66c827)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `41`
-- **Tracked Files**: `46`
+- **Total Commits**: `52`
+- **Tracked Files**: `44`
 - **Uncommitted Changes**: `No`
 - **Latest Tag**: `None`
 
@@ -48,8 +48,8 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 18 hours, 24 minutes`
-- **MAC Address**: `00:15:5d:0e:62:60`
+- **System Uptime**: `up 11 hours, 59 minutes`
+- **MAC Address**: `00:15:5d:86:d8:cc`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
 - **Total RAM (GB)**: `3.63`
